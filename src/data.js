@@ -1,22 +1,22 @@
 const projects = [
   {
-    title: 'birthday buddy',
-    url: 'https://react-vite-projects-1-birthday-buddy.netlify.app/',
-    image: './assets/birthday.png',
-  },
-  {
-    title: 'tours',
-    url: 'https://react-vite-projects-2-tours.netlify.app/',
-    image: './assets/tours.png',
-  },
-  {
-    title: 'reviews',
-    url: 'https://react-vite-projects-3-reviews.netlify.app/',
+    title: 'Reviews  App',
+    url: 'https://isaie-review.netlify.app/',
     image: './assets/reviews.png',
   },
   {
-    title: 'questions',
-    url: 'https://react-vite-projects-4-accordion.netlify.app/',
+    title: 'tours App',
+    url: 'https://isaie-tour.netlify.app/',
+    image: './assets/tours.png',
+  },
+  {
+    title: 'Unsplash images',
+    url: 'https://isaiesplash.netlify.app/',
+    image: './assets/unsplash images.png',
+  },
+  {
+    title: 'questions App',
+    url: 'https://isaie-questions.netlify.app/',
     image: './assets/questions.png',
   },
 ];
